@@ -3,7 +3,7 @@
     {
       "source": "/",
       "destination": "https://meet.google.com/ccy-nwnk-quu",
-      "permanent": true
+      "permanent": "true"
     }
   ]
 }
