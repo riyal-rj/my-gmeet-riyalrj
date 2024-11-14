@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/meet",
+      "destination": "https://meet.google.com/ccy-nwnk-quu",
+      "permanent": false
+    }
+  ]
+}
