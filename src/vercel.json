@@ -1,0 +1,8 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://meet.google.com/ivg-bnve-qbm",
+      "permanent": true   }
+  ]
+}
